@@ -179,12 +179,13 @@ main section .service-header h1 {
   text-align: center;
 }
 #sectionHome .home-img img {
-  height: 100%;
-  width: 95vw;
+  height: 65vh;
+  width: 90vw;
   object-fit: cover;
   background: lightgray;
   opacity: 0.85;
   box-shadow: 3px 3px 5px 10px var(--darker);
+  margin-bottom: 20%;
 }
 #sectionService.grid {
   display: flex;
