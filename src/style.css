@@ -181,6 +181,10 @@ main section .service-header h1 {
 #sectionHome .home-img img {
   height: 100%;
   width: 95vw;
+  object-fit: cover;
+  background: lightgray;
+  opacity: 0.85;
+  box-shadow: 3px 3px 5px 10px var(--darker);
 }
 #sectionService.grid {
   display: flex;
@@ -305,6 +309,10 @@ main section .service-header h1 {
   #sectionHome .home-img img {
     height: 80%;
     width: 78vw;
+    object-fit: cover;
+    background: lightgray;
+    opacity: 0.85;
+    box-shadow: 3px 3px 5px 10px var(--darker);
   }
   .services {
     flex-direction: row;
