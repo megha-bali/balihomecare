@@ -17,7 +17,9 @@ https://github.com/megha-bali/balihomecare.git
 Clone this project to your local system. Open the project in any Code Editor like VS code, Open terminal, cd to your folder and run following commands
 
 > npm install
+
 > npm run watch
+
 > npm run dev
 
 # Features Added:
